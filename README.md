@@ -4,6 +4,6 @@ This repo demonstrates end-to-end machine learning projects, following the exerc
 
 - [Cap2](Cap2): California Housing Prices analysis, using both descriptive and predictive methods such as EDA, regression and others.
 
-- [Cap3](Cap3): Classification modeling using the MNIST dataset and algorithms like logistic regression, K-NN and SVM.
+- [Cap3](Cap3): Classification modeling using the MNIST dataset and algorithms like SGD, k-NN, SVM and Random Forests.
 
 - In progress...
